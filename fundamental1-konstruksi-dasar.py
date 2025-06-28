@@ -3,7 +3,7 @@
 print('Hello World!')
 print('By Aqsha')
 print('Date, 28 June 2025')
-print('-' * 10)
+print('-' * 18)
 
 #Percabangan : Eksekusi Terpilih
 ingin_cepat = False
